@@ -1,2 +1,2 @@
 ## Functional Programming Final Project
-# Our unique twist on playing Monopoly in terminal
+Our unique twist on playing Monopoly in terminal
