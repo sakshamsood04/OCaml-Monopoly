@@ -1,5 +1,2 @@
-# Team: H.T.S.
-## Members
-* Harshvardhan Maskara (hm475)
-* Saksham Sood (ss3296)
-* Trisha Saini (tfs47)
+#Functional Programming Final Project
+## Our unique twist on playing Monopoly in terminal
