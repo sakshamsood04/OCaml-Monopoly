@@ -1,0 +1,4 @@
+(library
+ (name monopoly)
+ (public_name Monopoly)
+ (libraries str))
